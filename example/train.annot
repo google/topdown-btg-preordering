@@ -1,0 +1,4 @@
+I have a pen .	PRP VBP DT NN .	0000 0001 0002 0003 0004
+He saw the red hat .	PRP VBD DT JJ NN .	0000 0001 0002 0005 0003 0004
+She bought a book yesterday .	PRP VBD DT NN NN .	0000 0001 0002 0003 0003 0004
+They go to the station .	PRP VBP TO DT NN .	0000 0001 0006 0002 0003 0004
